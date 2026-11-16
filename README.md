@@ -1,0 +1,2 @@
+# ordem-inteligente
+Instalador parceiro
